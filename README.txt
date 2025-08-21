@@ -1,16 +1,11 @@
 
-# 🎂 Dárek pro Lucku – rodinná verze (finální)
+# Lucka – rodinný dárek (GitHub Pages verze)
 
-- Přátelský narozeninový styl s konfetami.
-- Žádný odkaz na Airbnb; domluva proběhne přes e‑mail.
-- Přidané tipy v okolí (Nissi Beach, WaterWorld, Cape Greco, Blue Lagoon, Parko Paliatso) se
-  zobrazují s fotografiemi hotlinkovanými z Wikimedia Commons a s uvedením autorů a licencí.
+- Všechny obrázky jsou **lokální** ve složce `/images` (nahraď je svými soubory, zachovej názvy nebo uprav cesty v `index.html`).
+- CSS nemá pevné výšky – text se **neřeže** (karty se rozšíří podle obsahu).
 
-## Co si upravit
-1) V `index.html` nahraď `example@email.cz` svým e‑mailem (2x).
-2) Přidej vlastní fotky interiéru do `assets/` a uprav sekci „Galerie apartmánu“.
-3) Chceš WhatsApp/Messenger? Přidej vedle tlačítka e‑mailu další `<a>` s odkazem `https://wa.me/` nebo `https://m.me/`.
+## Nahrání
+1. Nahraj do repozitáře *celou složku* (root): `index.html`, `styles.css`, `script.js`, `images/`.
+2. V **Settings → Pages** publikuj z `main` a `/ (root)`.
 
-## Poznámka k licencím fotek
-Fotky okolí jsou načítané přímo z Wikimedia Commons (hotlink), autoři a licence jsou zmíněny u sekce.
-Pokud je budeš stahovat lokálně, dodej kredit i na stránce.
+Hezké narozeniny! 🎂
